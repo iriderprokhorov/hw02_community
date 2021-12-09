@@ -34,9 +34,9 @@ class Post(models.Model):
         verbose_name="автор",
     )
 
+    def __str__(self):
+        return self.text
+
     class Meta:
         verbose_name = "Posts, it will be shown in admin panel"
         ordering = ["-pub_date"]
-
-    def __str__(self):
-        return self.text
