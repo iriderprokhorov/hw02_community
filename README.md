@@ -41,7 +41,7 @@ web_hw02_community_with_text.zip
 - 2.install venv
 - 3.install requirements
 - 4.make migrations
-- 5.python3 manage3 runserver
+- 5.python3 manage.py runserver
 
 Just open browser and type 127.0.0.1:8000
 
