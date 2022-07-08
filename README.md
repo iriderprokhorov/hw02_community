@@ -1,5 +1,5 @@
 # Yatube. Continue project  
-## Added models, fields in admin site, improve design 
+## Описание изменений
 - Создано и зарегистрировано приложение Posts.
 - Подключена база данных.
 - Десять последних записей выводятся на главную страницу.
